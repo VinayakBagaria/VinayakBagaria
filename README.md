@@ -5,6 +5,7 @@
 
 ### About Me 👦
 
+- 🧑 Tech Lead @ Fashinza
 - 🌱 I’m currently learning: Go.
 - 📫 How to reach me: workvinayak95@gmail.com
 - 😄 Pronouns: he/him
