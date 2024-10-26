@@ -47,6 +47,3 @@
 <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" height="25" align="left" />
 <img src="https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white" height="25" align="left" />
 <img src="https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black" height="25" />
-
-### LeetCode Stats
-<img alt="LeetCode Stat Card" src="https://leetcode-stats-six.vercel.app/?username=techentertainer&theme=dark" width="400"/>
