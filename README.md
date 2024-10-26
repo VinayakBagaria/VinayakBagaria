@@ -5,7 +5,7 @@
 
 ### About Me 👦
 
-- 🧑 Tech Lead @ Fashinza
+- 🧑 SDE 3 @ Medikabazaar
 - 🌱 I’m currently learning: Go.
 - 📫 How to reach me: workvinayak95@gmail.com
 - 😄 Pronouns: he/him
