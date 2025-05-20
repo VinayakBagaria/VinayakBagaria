@@ -6,7 +6,7 @@
 ### About Me 👦
 
 - 🧑 SDE 3 @ Medikabazaar
-- 🌱 I’m currently learning: Go.
+- 🌱 I’m currently learning: Distributed Systems, Go
 - 📫 How to reach me: workvinayak95@gmail.com
 - 😄 Pronouns: he/him
 
